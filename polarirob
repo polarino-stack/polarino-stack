@@ -1,9 +1,11 @@
 <div align="center">
 
 # 🚀 Pol Ariño Robledo  
-### 💻 Full Stack Developer | 🔧 Network Specialist | 🎓 Continuous Learner
+### 💻 Full Stack Developer · 🔧 Network Specialist · ☁️ Cloud Enthusiast  
 
-![Banner](Pol_Fototoficce.png)
+<img src="AlejandroPolo.png" alt="Banner" width="100%"/>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
@@ -11,58 +13,83 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alejandropold/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
 
-📍 Molins de Rei, Barcelona | 📧 Disponible para colaboraciones
+📍 Molins de Rei, Barcelona · 🌍 Open to Remote · 🤝 Open to Collaboration  
 
 </div>
 
 ---
 
-🎯 **"Desarrollador con visión integral: donde la infraestructura se encuentra con la innovación web"**
+## 🧠 Manifiesto Profesional
+
+> **“Construyo software donde la infraestructura, el código y la experiencia de usuario convergen.”**
+
+Soy desarrollador **Full Stack** con base sólida en **infraestructura IT y redes**, enfocado en crear soluciones:
+- ⚡ Escalables
+- 🔐 Seguras
+- 🧩 Bien diseñadas
+- ☁️ Preparadas para la nube
 
 ---
 
-## 👨‍💻 Perfil Profesional
+## 🧬 Perfil Profesional
 
-- 🎓 Formación Dual: SMR + DAW (en curso)  
-- 🔗 Infraestructura IT + Desarrollo Web  
-- 🚀 Soluciones escalables y centradas en el usuario  
+- 🎓 **Formación Dual**
+  - Grado Medio: *Sistemas Microinformáticos y Redes*
+  - Grado Superior: *Desarrollo de Aplicaciones Web* (en curso)
+- 🔗 Experiencia híbrida: **Networking + Software**
+- 🚀 Mentalidad **problem-solver** y **product-oriented**
+- 📚 Aprendizaje continuo en tecnologías emergentes
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 🌐 Frontend
+### 🌐 Frontend & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚙️ Backend
+### ⚙️ Backend & Logic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
 ---
 
-## 📈 Estadísticas GitHub
+## 📊 GitHub Analytics
+
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polodiazalejandro2-coder&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polodiazalejandro2-coder&show_icons=true&theme=radical)
 
+</div>
+
 ---
 
-## 🏆 Certificaciones
+## 🏆 Certificaciones & Logros
 
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
-## 🗓️ Mi Trayectoria
+## 🗓️ Trayectoria Profesional
 
 ```mermaid
 timeline
     title Evolución Profesional
-    2022-2023 : Grado Medio SMR
-    2023-2024 : Grado Superior DAW
-    2024-Presente : Proyectos y Cloud
+    2022-2023 : Grado Medio SMR · Redes · Sistemas
+    2023-2024 : Grado Superior DAW · Full Stack
+    2024-Presente : Proyectos · Cloud · DevOps
